@@ -1,4 +1,4 @@
 # MSR in MSAI
-This organization is for Group 6 in **MSAI 349: Machine Learning** at Northwestern University (2024 Fall).
+This organization is for Group 6 in **MSAI 349: Machine Learning** and **MSAI 437: Deep Learning** at Northwestern University.
 
 Group Members: [Ben Benyamin](https://github.com/BenBenyamin), [Zhengxiao Han](https://absrat.com), [Zhengyang (Kris) Weng](https://wengmister.github.io/).
